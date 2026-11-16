@@ -1,20 +1,19 @@
-# How to Adapt Toy Name
+# How to Build a Paddle Switch
 
 Version no. and last updated
 
 ![alt text](image path)
 
 ## Introduction
-* The Paddle Switch is a switch that is operated by pressing down on one end until the two pieces of plastic touch.
-* This adaptation guide explains how to adapt (insert names and descriptions of features being adapted)
+* The Paddle Switch is a device that is operated by pressing down on one end of the paddle until the two pieces of plastic touch. This device can be used in place of the often expensive commercially avaible adaptive switches for switch adapted toys. It is good for large movements and users who benefit from a large activation surface.
+* This guide explains how to build a Paddle Switch using inexpensive materials and basic tools.
 
 > For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
 
-### Toy details
-**Link**: Link to purchase  
-**Name**: Official toy name  
-**Brand**: Brand  
-**UPC**: UPC  
+### Device details
+**Link**: [https://miahoffmannd.github.io/switchkit/Switches](https://miahoffmannd.github.io/switchkit/Switches)
+**Name**: Paddle Switch
+**Original Creator**: [Mia Hoffman](https://miahoffmannd.github.io/)
 
 ### Toy features
 | Light | Sound | Motion |
@@ -155,8 +154,6 @@ Link out.
 
 ---
 
-<!-- Completely new -->
-
 ## Appendix
 
 ### Troubleshooting
@@ -169,6 +166,7 @@ Link out.
 - List of links?
 
 ### Acknowledgements
+- https://miahoffmannd.github.io/switchkit/Switches
 Resources used to develop this manual. People who helped: contributors, editors, etc.
 
 <!-- Should also live in the style guide. Will be under development! -->
