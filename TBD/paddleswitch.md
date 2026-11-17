@@ -16,9 +16,9 @@ Version no. and last updated
 **Original Creator**: [Mia Hoffman](https://miahoffmannd.github.io/)
 
 ### Toy features
-| Light | Sound | Motion |
+| Durable | Fast to Build | Works with any switch toy adaptation or input device |
 |-------|-------|--------|
-| light_icon   | sound_icon   | motion_icon    |
+| strong_icon   | lightning_icon   | check_icon    |
 
 Sensory outputs involved in operation of the toy.
 
