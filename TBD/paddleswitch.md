@@ -109,8 +109,10 @@ Cut four pieces of corrugated plastic (coroplast):
 - Base (A): 5.75 x 4 inches.
   - Flutes (the internal channels in the plastic) should be parallel with the short edge.
 - Paddle (B): 5 x 4 inches.
-  - Flutes should be parallel with the short edge.
-- 
+  - Flutes should run along with the short edge.
+- Shim (C): 4 x 1 inches.
+  - Flute direction does not matter.
+- Shim (D): 4 x 1 inches.
   - Flute direction does not matter.
 <!-- > ✏️ **Note**: Note.
 
@@ -120,12 +122,11 @@ Cut four pieces of corrugated plastic (coroplast):
 
 ---
 
-#### Step 2: Score the pieces
+#### Step 2: Declarative step
 ![alt text](image path)
 *Caption here*
 
-
-
+Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 1 inch away from the edge.
 
 ---
 
