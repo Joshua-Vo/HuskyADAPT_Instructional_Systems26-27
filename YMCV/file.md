@@ -170,19 +170,53 @@ Link out.
 I'm having trouble with...
 (try to figure out dropdown for each category)
 
- Soldering
-- What if I melt too much metal when soldering and the nodes on my circuit board touch?
-- How would I fix the wire if it is yanked out of the toy?
+<details>
+<summary><h3>Soldering</h3></summary>
 
- Buttons
-- What do I do if the toy does not respond after connecting an adapted button?
-- What do I do if the toy only activates when I'm holding down on the adapted button?
-- What if the toy only works intermittently (might change the word due to common knowledge)?
-- What if the toy's original functions stop working?
+> [!CAUTION]
+> What if I melt too much metal when soldering and the nodes on my circuit board touch?
 
- Toy Casing
-- What if the toy casing won't close?
+> [!CAUTION]
+> How would I fix the wire if it is yanked out of the toy?
 
+ 
+<details>
+<summary><h3>Buttons</h3></summary>
+
+> [!CAUTION]
+> What do I do if the toy does not respond after adapting it and pressing the adapted switch?
+
+> [!TIP]
+> 🔋 **Check the batteries**
+> Make sure that you don't have a battery problem by pressing the button originally used to operate the toy. If the toy doesn't work still, replace the batteries and try again.
+>
+> 🔌 **Check the wiring**
+> If there are no issues with the batteries, check the headphone jack wiring and ensure that it is soldered securely to the ends of the original toy switch.
+
+> [!CAUTION]
+> What do I do if the toy only activates when I'm holding down on the adapted switch?
+
+> [!TIP]
+> 🔌 **Connect to a switch modifier**
+> Connect one end of a [TNP 3.5mm mono cable](https://www.amazon.com/dp/B01MA18DPL?lv=shuf&channelId=500&plpRedirect=mhFallback) to the headphone jack and the other end to the output jack of a [switch modifier](https://www.switchedtoys.org/products/tiny-switchy?srsltid=AYCX9vKnXq7Cn-sA29axtcte3TYTOR1FWBG2FTAkK4Uz03Sk2XIitK1b&_su_rec=vZPz6UFR8OSA5pRh-t-S4XNZI8jjt-l23Dh_1j4u-f3Pi8DCE3JUE7TvYQctAbPJyUOJOvm6DHwR-2iTVvJfkotX6Cl1bxw8OdeDf4IbsU-es2YRGJUM4rtbSI5px2cR_C6OD7guhaAC7gpaN7Xc1CAwWQpmzmAbiOookgCQ3vfsf1teWKmvI7XDkEKJiyqfSqlz_B1WbqVhW0hxALAGHZoko-cBG6cQ71HBNyAe1xdJG9y6gPI4Rh6ziwpmmRO5fcEvWGU13-20EoK36pMrf7Nbrsbjp94IZZuUR3oebavKeO0gRFFEZU1M46sAhW5LOY7bwixJTOxhPstH-1PYO3E&_su_rec_id=8b5f9cdc-c0bd-444b-8e55-45712c671937-1794887596). Then, connect the headphone plug of your adapted switch to the input jack of the switch modifier and press the button for toggle mode. This should convert your adapted switch to a latching switch and the toy should stay activated after only one push of the adapted switch.
+>
+> *Note: a switch modifier is a device that makes it so that a toy can be turned on continuously or off, or on for a specific amount of time, with just a single push of an adapted switch and a latching switch is a switch that makes a toy stay in its new state (ON or OFF) after just one press.
+
+> [!CAUTION]
+> What if the toy only works intermittently (might change the word due to common knowledge)?
+
+> [!CAUTION]
+> What if the toy's original functions stop working?
+
+</details>
+
+<details>
+<summary><h3>Toy Casing</h3></summary>
+
+> [!CAUTION]
+> What if the toy casing won't close?
+
+</details>
 
 ## FAQ
 Link out.
