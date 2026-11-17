@@ -167,8 +167,7 @@ Link out.
 # Appendix
 
 ## Troubleshooting
-I'm having trouble with...
-(try to figure out dropdown for each category)
+"I'm having trouble with..."
 
 <details>
 <summary><h3>Soldering</h3></summary>
