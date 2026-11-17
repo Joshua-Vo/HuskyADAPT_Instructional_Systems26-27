@@ -161,6 +161,44 @@ Wrap the last inch around the non-scored edge.
 ---
 
 ### Part 3: Assembling the switch
+#### Step 1: Audio jack attachment
+![alt text](image path)
+*Caption here*
+
+
+Place audio jack cable on foam tape:
+- Use 5 inch aluminum tape to secure red wire to Base A
+- Red wire should be attached along long edge
+
+#### Step 2: 
+![alt text](image path)
+*Caption here*
+
+Use foam tape to secure shims on base A:
+- Shims should stack along short edge of base A
+- Secure shims close to black wire but keep white wire out
+ 
+ #### Step 3: 
+ ![alt text](image path)
+*Caption here*
+
+ Secure paddle B to foam tape on top of shims
+-  Align front edges
+
+#### Step 4:
+![alt text](image path)
+*Caption here*
+
+Tape white wire to top with aluminum tape
+- Ensure wire and tape are firmly attached
+
+
+<!-- > ✏️ **Note**: Note.
+
+> ⚠️ **Caution**: Caution. 
+
+> 💡 **Tip**: Tip.   -->
+
 
 ---
 
