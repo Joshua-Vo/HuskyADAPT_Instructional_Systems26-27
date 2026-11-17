@@ -5,7 +5,7 @@ Version no. and last updated
 ![alt text](image path)
 
 ## Introduction
-* The Paddle Switch is a device that is operated by pressing down on one end of the paddle until the two pieces of plastic touch. This device can be used in place of the often expensive commercially avaible adaptive switches for switch adapted toys. It is good for large movements and users who benefit from a large activation surface.
+* The Paddle Switch is a device that is operated by pressing down on one end of the paddle until the two pieces of plastic touch. This device can be used in place of the often expensive commercially avaible adaptive switches to activate switch adapted toys. It is good for large movements and users who benefit from a large activation surface.
 * This guide explains how to build a Paddle Switch using inexpensive materials and basic tools.
 
 > For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
@@ -98,45 +98,49 @@ Link out.
 
 <!-- Kept linear for screen reader convenience and less whitespace -->
 ## Full procedure
-### Part 1: Preparing the toy
+### Part 1: Prepare the pieces
 
 <!-- Subsection as heading allows for clearer distinction of which images belong to which step -->
-#### Step 1: Remove the toy from the package
-<img src="" alt="Process photo" />
+#### Step 1: Cutting the pieces
+![alt text](image path)
+*Caption here*
 
-*Caption here*  
-
-<!-- Many teams used the quotation function for visual callouts (slay) -->
-<!-- YMCV provided emojis! -->
-
-> ✏️ **Note**: Note.
+Cut four pieces of corrugated plastic (coroplast):
+- Base (A): 5.75 x 4 inches.
+  - Flutes (the internal channels in the plastic) should be parallel with the short edge.
+- Paddle (B): 5 x 4 inches.
+  - Flutes should be parallel with the short edge.
+- 
+  - Flute direction does not matter.
+<!-- > ✏️ **Note**: Note.
 
 > ⚠️ **Caution**: Caution. 
 
-> 💡 **Tip**: Tip.  
+> 💡 **Tip**: Tip.   -->
 
-<!-- Separators from KALM; good visual separation between steps -->
 ---
 
-#### Step 2: Declarative step
-<img src="" alt="Process photo" />
+#### Step 2: Score the pieces
+![alt text](image path)
+*Caption here*
 
-*Caption here*  
+
+
 
 ---
 
 #### Step 3: Declarative step
-<img src="" alt="Process photo" />
+![alt text](image path)
 
 *Caption here*  
 
 ---
 
-### Part 2: Understanding the circuit board
+### Part 2: Taping the pieces
 
 ---
 
-### Part 3: Making space for the new switch
+### Part 3: Assembling the switch
 
 ---
 
