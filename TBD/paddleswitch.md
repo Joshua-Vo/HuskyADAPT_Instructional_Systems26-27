@@ -99,20 +99,18 @@ Link out.
 <!-- Kept linear for screen reader convenience and less whitespace -->
 ## Full procedure
 ### Part 1: Prepare the pieces
-
-<!-- Subsection as heading allows for clearer distinction of which images belong to which step -->
 #### Step 1: Cutting the pieces
 ![alt text](image path)
 *Caption here*
 
 Cut four pieces of corrugated plastic (coroplast):
-- Base (A): 5.75 x 4 inches.
+- **Base (A):** 5.75 x 4 inches.
   - Flutes (the internal channels in the plastic) should be parallel with the short edge.
-- Paddle (B): 5 x 4 inches.
+- **Paddle (B):** 5 x 4 inches.
   - Flutes should run along with the short edge.
-- Shim (C): 4 x 1 inches.
+- **Shim (C):** 4 x 1 inches.
   - Flute direction does not matter.
-- Shim (D): 4 x 1 inches.
+- **Shim (D):** 4 x 1 inches.
   - Flute direction does not matter.
 <!-- > ✏️ **Note**: Note.
 
