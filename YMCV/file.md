@@ -231,7 +231,20 @@ I'm having trouble with...
 
 <details>
 <summary><h4>What if the toy casing won't close?</h4></summary>
-> 
+
+> 🤗 **Misaligned seams or tabs:**  
+> Gently open the casing and make sure the internal alignment pins and edges line up evenly before pressing together.
+>
+> 📋 **Internal obstruction:**  
+> Check that any internal components, wires, batteries, or inserts are seated flat inside their designated grooves and are not pinched between the halves.
+>
+> 🔎 **Excess material or debris:**  
+> Inspect the edges for small plastic burrs, dried adhesive, or dust blocking the closure track.
+>
+> &nbsp;
+>
+> 💡 **Tip:**  
+> Apply even, gentle pressure around the perimeter rather than forcing one side down, which can bend or snap the locking tabs.
 
 </details>
 
