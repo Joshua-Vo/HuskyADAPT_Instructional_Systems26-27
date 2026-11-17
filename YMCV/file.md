@@ -179,6 +179,7 @@ I'm having trouble with...
 > [!CAUTION]
 > How would I fix the wire if it is yanked out of the toy?
 
+</details>
  
 <details>
 <summary><h3>Buttons</h3></summary>
