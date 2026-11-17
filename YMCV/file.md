@@ -175,7 +175,7 @@ I'm having trouble with...
 
 <details>
 <summary><h4>What if I melt too much metal when soldering and the nodes on my circuit board touch?</h4></summary>
-> 
+ 
 If 2 solder nodes are unintentionally connected, this is called a solder bridge. To remove excess solder:
 
 1. Place a solder wick (desoldering braid) over the solder bridge, then place your soldering iron on top of the wick to melt the excess solder. The wick will absorb the excess solder.
@@ -186,7 +186,7 @@ If 2 solder nodes are unintentionally connected, this is called a solder bridge.
 <details>
 <summary><h4>How would I fix the wire if it is yanked out of the toy?
 </h4></summary>
->
+
 The following steps are for wires disconnected from the solder nodes.
 
 ⚠️ These steps are not for when a copper pad is lifted off the circuit board.
