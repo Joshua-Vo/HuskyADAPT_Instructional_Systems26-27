@@ -175,7 +175,7 @@ I'm having trouble with...
 
 <details>
 <summary><h4>What if I melt too much metal when soldering and the nodes on my circuit board touch?</h4></summary>
-> What if I melt too much metal when soldering and the nodes on my circuit board touch?
+> 
 
 </details>
 
