@@ -223,7 +223,6 @@ If it is not working, go back to Part 2 Step 2 and troubleshoot from there.
 
 ---
 
-
 # Appendix
 
 ## Troubleshooting
