@@ -25,7 +25,7 @@ Version no. 1 and last updated on 11/17/2026
 
 **Brand**: Playbees
 
-**UPC**: UPC unknown
+**UPC**: 850040992878
 
 ## Toy features
 | Light | Sound | Motion |
@@ -40,8 +40,9 @@ Lights & Music: LED effects activate with fun sounds for interactive play
 
 Bump-and-Go Movement: Changes direction automatically when hitting objects
 
-3 Modes: Off, lights only, or lights with movement and music
-Durable Plastic: Made to withstand active play
+2 Modes: Off, lights with movement and music
+
+Material: Plastic
 
 Size: 8 x 5 x 2 inches
 
@@ -164,6 +165,8 @@ Remove batteries and prepare dissasembly tools.
 ## Part 2: Understanding the circuit board
 ### Step 1: Unscrew the covers
 
+Unscrew the 8 screws pictured.
+Unscrew an addtional 4 screws.
 > 💡 **Tip**: Put the screws somewhere safe so they don't get lost.
 
 <img src="" alt="Process photo" />
@@ -204,7 +207,7 @@ Give the wire a tug test to see if it is securely attached
 ---
 ## Part 4: Making space for the new switch
 ### Step 1: Drill a hole for the headphone jack
-> 💡 **Tip**: We recommend drilling the hole at <LOCATION>, but this can be adjusted for personal preference.
+> 💡 **Tip**: We recommend drilling the hole at near the trunk, but this can be adjusted for personal preference.
 ---
 
 
