@@ -1,5 +1,5 @@
 <!-- Phrased for SEO/AEO/GEO -->
-# How to Adapt Dice roller
+# How to Adapt Dice Roller
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
@@ -10,7 +10,7 @@ Version no. and last updated
 
 <!-- YMCV key intro info -->
 # Introduction
-* The dice roller is a toy that (insert description of how the toy is operated and what it does).
+* The dice roller is a toy that that rolls the dice through the press of a button.
 * This adaptation guide explains how to adapt (insert names and descriptions of features being adapted)
 
 <!-- KALM good standard inclusion -->
@@ -226,13 +226,13 @@ The following steps are for wires disconnected from the solder nodes.
 <details>
 <summary><h4>What if the toy only works intermittently (might change the word due to common knowledge)?</h4></summary>
     
->🔌 **Check for loose connections**
+> 🔌 **Check for loose connections**
 >Inspect all solder joints on the headphone jack and original switch terminals. A loose or "cold" solder joint can cause the toy to work only some of the time.
 >
->🎧 **Test the switch and cable**
+> 🎧 **Test the switch and cable**
 >Try a different adapted switch or cable if available. A damaged switch or cable may create an unreliable connection.
 >
->🔍 **Inspect the headphone jack**
+> 🔍 **Inspect the headphone jack**
 >Ensure the jack is firmly mounted and that no wires are touching unintentionally inside the toy.
 >
 >&nbsp;
@@ -244,16 +244,16 @@ The following steps are for wires disconnected from the solder nodes.
 <details>
 <summary><h4>What if the toy's original functions stop working?</h4></summary>
 
->🔌 **Check the wiring placement**
+> 🔌 **Check the wiring placement**
 > Verify that the headphone jack wires are connected only to the original switch terminals and have not accidentally bridged to nearby components or traces.
 >
 > 🤝 **Inspect for solder bridges**
 > Look for excess solder connecting two points that should remain separate. Remove any solder bridges using solder wick if needed.
 >
->🔍 **Check the original button**
+> 🔍 **Check the original button**
 >Make sure the toy's original switch has not been damaged, disconnected, or obstructed during the adaptation process.
 >
->✅ Test the toy before closing the casing
+> ✅ Test the toy before closing the casing
  Operate both the original button and the adapted switch. Both should activate the toy in the same way.
 >
 > ⚠️ **If the issue persists**
