@@ -32,23 +32,28 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
 <!-- Phrased for SEO/AEO/GEO -->
 <!-- https://marketplace.visualstudio.com/items?itemName=huntertran.auto-markdown-toc -->
 ## Table of contents
-- [How to Adapt Toy Name](#how-to-adapt-toy-name)
-- [Introduction](#introduction)
-    - [Toy details](#toy-details)
+- [How to Build a Paddle Switch](#how-to-build-a-paddle-switch)
+  - [Introduction](#introduction)
+    - [Device details](#device-details)
     - [Toy features](#toy-features)
     - [Adaption difficulty](#adaption-difficulty)
-- [Table of contents](#table-of-contents)
-- [General procedure](#general-procedure)
-- [Safety precautions](#safety-precautions)
-- [Tools and setup](#tools-and-setup)
-- [Full procedure](#full-procedure)
-    - [Part 1: Preparing the toy](#part-1-preparing-the-toy)
-        - [Step 1: Remove the toy from the package](#step-1-remove-the-toy-from-the-package)
-        - [Step 2: Declarative step](#step-2-declarative-step)
-        - [Step 3: Declarative step](#step-3-declarative-step)
-    - [Part 2: Understanding the circuit board](#part-2-understanding-the-circuit-board)
-    - [Part 3: Making space for the new switch](#part-3-making-space-for-the-new-switch)
-- [Appendix](#appendix)
+  - [Table of contents](#table-of-contents)
+  - [General procedure](#general-procedure)
+  - [Safety precautions](#safety-precautions)
+  - [Tools and setup](#tools-and-setup)
+  - [Full procedure](#full-procedure)
+    - [Part 1: Prepare the pieces](#part-1-prepare-the-pieces)
+      - [Step 1: Cutting the pieces](#step-1-cutting-the-pieces)
+      - [Step 2: Score the piece](#step-2-score-the-piece)
+    - [Part 2: Taping the pieces](#part-2-taping-the-pieces)
+      - [Step 1: Prepare the Base (A)](#step-1-prepare-the-base-a)
+      - [Step 2: Prepare the Paddle (B)](#step-2-prepare-the-paddle-b)
+    - [Part 3: Assembling the switch](#part-3-assembling-the-switch)
+      - [Step 1: Audio jack attachment](#step-1-audio-jack-attachment)
+      - [Step 2:](#step-2)
+      - [Step 3:](#step-3)
+      - [Step 4:](#step-4)
+  - [Appendix](#appendix)
     - [Troubleshooting](#troubleshooting)
     - [FAQ](#faq)
     - [Resources](#resources)
@@ -116,7 +121,7 @@ Cut four pieces of corrugated plastic (coroplast):
 
 ---
 
-#### Step 2: Declarative step
+#### Step 2: Score the piece
 ![alt text](image path)
 *Caption here*
 
