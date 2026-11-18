@@ -1,36 +1,28 @@
-<!-- Phrased for SEO/AEO/GEO -->
-# How to Adapt Toy Name
+# How to Build a Paddle Switch
 
-<!-- AWESOME version no. and date -->
-<!-- How to number should go in style guide -->
-Version no. and last updated  
+Version no. and last updated
 
-<!-- Many teams included alt text eyyy -->
-<img src="" alt="Picture of toy" />
+![alt text](image path)
 
-<!-- YMCV key intro info -->
-# Introduction
-* The (insert name of toy) is a toy that (insert description of how the toy is operated and what it does).
-* This adaptation guide explains how to adapt (insert names and descriptions of features being adapted)
+## Introduction
+* The Paddle Switch is a device that is operated by pressing down on one end of the paddle until the two pieces of plastic touch. This device can be used in place of the often expensive commercially avaible adaptive switches to activate switch adapted toys. It is good for large movements and users who benefit from a large activation surface.
+* This guide explains how to build a Paddle Switch using inexpensive materials and basic tools.
 
-<!-- KALM good standard inclusion -->
 > For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
 
-<!-- KALM good standard info -->
-## Toy details
-**Link**: Link to purchase  
-**Name**: Official toy name  
-**Brand**: Brand  
-**UPC**: UPC  
+### Device details
+**Link**: [https://miahoffmannd.github.io/switchkit/Switches](https://miahoffmannd.github.io/switchkit/Switches)
+**Name**: Paddle Switch
+**Original Creator**: [Mia Hoffman](https://miahoffmannd.github.io/)
 
-## Toy features
-| Light | Sound | Motion |
+### Toy features
+| Durable | Fast to Build | Works with any switch toy adaptation or input device |
 |-------|-------|--------|
-| light_icon   | sound_icon   | motion_icon    |
+| strong_icon   | lightning_icon   | check_icon    |
 
 Sensory outputs involved in operation of the toy.
 
-## Adaption difficulty
+### Adaption difficulty
 **Difficulty 1/3: Beginner-friendly**
 
 Complexity level of adaptation and description of prior experience required.
@@ -39,28 +31,29 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
 <!-- Linky like AWESOME -->
 <!-- Phrased for SEO/AEO/GEO -->
 <!-- https://marketplace.visualstudio.com/items?itemName=huntertran.auto-markdown-toc -->
-# Table of contents
-- [How to Adapt Toy Name](#how-to-adapt-toy-name)
-- [Introduction](#introduction)
-    - [Toy details](#toy-details)
+## Table of contents
+- [How to Build a Paddle Switch](#how-to-build-a-paddle-switch)
+  - [Introduction](#introduction)
+    - [Device details](#device-details)
     - [Toy features](#toy-features)
     - [Adaption difficulty](#adaption-difficulty)
-- [Table of contents](#table-of-contents)
-- [General procedure](#general-procedure)
-- [Safety precautions](#safety-precautions)
-- [Tools and setup](#tools-and-setup)
-- [Full procedure](#full-procedure)
-    - [Part 1: Preparing the toy](#part-1-preparing-the-toy)
-        - [Step 1: Remove the toy from the package](#step-1-remove-the-toy-from-the-package)
-        - [Step 2: Declarative step](#step-2-declarative-step)
-        - [Step 3: Declarative step](#step-3-declarative-step)
-    - [Part 2: Understanding the circuit board](#part-2-understanding-the-circuit-board)
-    - [Part 3: Making space for the new switch](#part-3-making-space-for-the-new-switch)
-    - [Part 4: Soldering](#part-4-soldering)
-        - [4.1: Custom Soldering 1](#41-custom-soldering-1)
-        - [4.2: Custom Soldering 2](#42-custom-soldering-2)
-    - [Part 5: Testing and reassembling the adapted toy](#part-5-testing-and-reassembling-the-adapted-toy)
-- [Appendix](#appendix)
+  - [Table of contents](#table-of-contents)
+  - [General procedure](#general-procedure)
+  - [Safety precautions](#safety-precautions)
+  - [Tools and setup](#tools-and-setup)
+  - [Full procedure](#full-procedure)
+    - [Part 1: Prepare the pieces](#part-1-prepare-the-pieces)
+      - [Step 1: Cutting the pieces](#step-1-cutting-the-pieces)
+      - [Step 2: Score the piece](#step-2-score-the-piece)
+    - [Part 2: Taping the pieces](#part-2-taping-the-pieces)
+      - [Step 1: Prepare the Base (A)](#step-1-prepare-the-base-a)
+      - [Step 2: Prepare the Paddle (B)](#step-2-prepare-the-paddle-b)
+    - [Part 3: Assembling the switch](#part-3-assembling-the-switch)
+      - [Step 1: Audio jack attachment](#step-1-audio-jack-attachment)
+      - [Step 2:](#step-2)
+      - [Step 3:](#step-3)
+      - [Step 4:](#step-4)
+  - [Appendix](#appendix)
     - [Troubleshooting](#troubleshooting)
     - [FAQ](#faq)
     - [Resources](#resources)
@@ -69,7 +62,7 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
 
 <!-- Present in every manual for convenience and safety -->
 <!-- Should go in the style guide (up for editing) -->
-# General procedure
+## General procedure
 <!-- Source: https://uwnetid.sharepoint.com/:p:/s/huskyadapt/cQr_xZxmDFQlSrafDVBPPkZsEgUCJVXRQgi2niDiJS1xfOS7MA -->
 The general procedure for toy adaptation is as follows:  
 
@@ -84,7 +77,7 @@ The general procedure for toy adaptation is as follows:
 
 <!-- Present in every manual for convenience and safety -->
 <!-- Should go in the style guide (up for editing) -->
-# Safety precautions
+## Safety precautions
 This adaptation requires the use of a soldering iron and drill.  
 
 When drilling or soldering:
@@ -101,83 +94,123 @@ When soldering:
 When drilling:
 - Drill away from yourself and watch your fingers.  
 
-# Tools and setup
+## Tools and setup
 Link out.
 
 <!-- Kept linear for screen reader convenience and less whitespace -->
-# Full procedure
-## Part 1: Preparing the toy
+## Full procedure
+### Part 1: Prepare the pieces
+#### Step 1: Cutting the pieces
+![alt text](image path)
+*Caption here*
 
-<!-- Subsection as heading allows for clearer distinction of which images belong to which step -->
-### Step 1: Remove the toy from the package
-<img src="" alt="Process photo" />
-
-*Caption here*  
-
-<!-- Many teams used the quotation function for visual callouts (slay) -->
-<!-- YMCV provided emojis! -->
-
-> ✏️ **Note**: Note.
+Cut four pieces of corrugated plastic (coroplast):
+- **Base (A):** 5.75 x 4 inches.
+  - Flutes (the internal channels in the plastic) should be parallel with the short edge.
+- **Paddle (B):** 5 x 4 inches.
+  - Flutes should run along with the short edge.
+- **Shim (C):** 4 x 1 inches.
+  - Flute direction does not matter.
+- **Shim (D):** 4 x 1 inches.
+  - Flute direction does not matter.
+<!-- > ✏️ **Note**: Note.
 
 > ⚠️ **Caution**: Caution. 
 
-> 💡 **Tip**: Tip.  
-
-<!-- Separators from KALM; good visual separation between steps -->
----
-
-### Step 2: Declarative step
-<img src="" alt="Process photo" />
-
-*Caption here*  
+> 💡 **Tip**: Tip.   -->
 
 ---
 
-### Step 3: Declarative step
-<img src="" alt="Process photo" />
+#### Step 2: Score the piece
+![alt text](image path)
+*Caption here*
 
-*Caption here*  
-
----
-
-## Part 2: Understanding the circuit board
+Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 1 inch away from the edge.
 
 ---
 
-## Part 3: Making space for the new switch
+### Part 2: Taping the pieces
+#### Step 1: Prepare the Base (A)
+![alt text](image path)
+*Caption here*
+
+Add two pieces of 5 inch aluminum conductive tape to the Base (A). Center and overlap the pieces so that there is a X inch border between the edge of the piece and the tape.
+
+Place a 1 inch piece of foam tape in the middle of the 4 inch side between the tape and the edge.
+
+#### Step 2: Prepare the Paddle (B)
+![alt text](image path)
+*Caption here*
+
+Add a 6 inch piece of aluminum conductive tape to the Paddle (B). Center the piece and leave X inch from the scored side. 
+
+Wrap the last inch around the non-scored edge.
+<!-- > ✏️ **Note**: Note.
+
+> ⚠️ **Caution**: Caution. 
+
+> 💡 **Tip**: Tip.   -->
+
 
 ---
 
-## Part 4: Soldering
+### Part 3: Assembling the switch
+#### Step 1: Audio jack attachment
+![alt text](image path)
+*Caption here*
 
-<!-- Custom options from TBD -->
-### 4.1: Custom Soldering 1
 
-### 4.2: Custom Soldering 2
+Place audio jack cable on foam tape:
+- Use 5 inch aluminum tape to secure red wire to Base A
+- Red wire should be attached along long edge
+
+#### Step 2: 
+![alt text](image path)
+*Caption here*
+
+Use foam tape to secure shims on base A:
+- Shims should stack along short edge of base A
+- Secure shims close to black wire but keep white wire out
+ 
+ #### Step 3: 
+ ![alt text](image path)
+*Caption here*
+
+ Secure paddle B to foam tape on top of shims
+-  Align front edges
+
+#### Step 4:
+![alt text](image path)
+*Caption here*
+
+Tape white wire to top with aluminum tape
+- Ensure wire and tape are firmly attached
+
+
+<!-- > ✏️ **Note**: Note.
+
+> ⚠️ **Caution**: Caution. 
+
+> 💡 **Tip**: Tip.   -->
+
 
 ---
 
-<!-- Part 5 from TBD -->
-## Part 5: Testing and reassembling the adapted toy
+## Appendix
 
----
-
-<!-- Completely new -->
-
-# Appendix
-
-## Troubleshooting
+### Troubleshooting
 Link out.
 
-## FAQ
+### FAQ
 Link out.
 
-## Resources
+### Resources
 - List of links?
 
-## Acknowledgements
-Resources used to develop this manual. People who helped: contributors, editors, etc.
+### Acknowledgements
+- https://miahoffmannd.github.io/switchkit/Switches
+<!-- Resources used to develop this manual. People who helped: contributors, editors, etc. -->
 
 <!-- Should also live in the style guide. Will be under development! -->
-## About HuskyADAPT and Instructional Systems
+### About HuskyADAPT and Instructional Systems
 Description.
