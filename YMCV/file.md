@@ -225,13 +225,39 @@ The following steps are for wires disconnected from the solder nodes.
 
 <details>
 <summary><h4>What if the toy only works intermittently (might change the word due to common knowledge)?</h4></summary>
+    
+>🔌 **Check for loose connections**
+>Inspect all solder joints on the headphone jack and original switch terminals. A loose or "cold" solder joint can cause the toy to work only some of the time.
 >
+>🎧 **Test the switch and cable**
+>Try a different adapted switch or cable if available. A damaged switch or cable may create an unreliable connection.
+>
+>🔍 **Inspect the headphone jack**
+>Ensure the jack is firmly mounted and that no wires are touching unintentionally inside the toy.
+>
+>&nbsp;
+>💡 **Tip:**
+>Gently wiggle the wires while testing the toy. If the toy cuts in and out, there is likely a loose connection that should be resoldered.
 
 </details>
 
 <details>
 <summary><h4>What if the toy's original functions stop working?</h4></summary>
+
+>🔌 **Check the wiring placement**
+> Verify that the headphone jack wires are connected only to the original switch terminals and have not accidentally bridged to nearby components or traces.
 >
+> 🤝 **Inspect for solder bridges**
+> Look for excess solder connecting two points that should remain separate. Remove any solder bridges using solder wick if needed.
+>
+>🔍 **Check the original button**
+>Make sure the toy's original switch has not been damaged, disconnected, or obstructed during the adaptation process.
+>
+>✅ Test the toy before closing the casing
+ Operate both the original button and the adapted switch. Both should activate the toy in the same way.
+>
+> ⚠️ **If the issue persists**
+>Stop troubleshooting and consult a technician to avoid damaging the circuit board.
 
 </details>
 
