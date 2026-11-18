@@ -1,5 +1,5 @@
 <!-- Phrased for SEO/AEO/GEO -->
-# How to Adapt Toy Name
+# How to Adapt Dice roller
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
@@ -10,7 +10,7 @@ Version no. and last updated
 
 <!-- YMCV key intro info -->
 # Introduction
-* The (insert name of toy) is a toy that (insert description of how the toy is operated and what it does).
+* The dice roller is a toy that (insert description of how the toy is operated and what it does).
 * This adaptation guide explains how to adapt (insert names and descriptions of features being adapted)
 
 <!-- KALM good standard inclusion -->
