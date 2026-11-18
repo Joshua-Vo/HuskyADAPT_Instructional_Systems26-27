@@ -3,7 +3,7 @@
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
-Version no. 1 and last updated on 11/13/2026
+Version no. 1 and last updated on 11/17/2026
 
 <!-- Many teams included alt text eyyy -->
 <img src="" alt="Picture of toy" />
@@ -19,11 +19,11 @@ Version no. 1 and last updated on 11/13/2026
 
 <!-- KALM good standard info -->
 ## Toy details
-**Link**: https://www.amazon.com/dp/B092FJN9X4?plpRedirect=mhFallback&ref=clp_hp_h_pc
+**Link**: https://a.co/d/02appaI6
 
-**Name**: Light-Up Transparent Sensory Car Toy, Bump-and-Go
+**Name**: Playbees Light-Up Transparent Car
 
-**Brand**: ArtCreativity
+**Brand**: Playbees
 
 **UPC**: UPC unknown
 
@@ -43,7 +43,7 @@ Bump-and-Go Movement: Changes direction automatically when hitting objects
 3 Modes: Off, lights only, or lights with movement and music
 Durable Plastic: Made to withstand active play
 
-Size: 9 x 3 x 2.5 inches
+Size: 8 x 5 x 2 inches
 
 Power: 3 AA batteries **not included**
 
