@@ -128,13 +128,6 @@ Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 
 
 ---
 
-#### Step 3: Declarative step
-![alt text](image path)
-
-*Caption here*  
-
----
-
 ### Part 2: Taping the pieces
 #### Step 1: Prepare the Base (A)
 ![alt text](image path)
@@ -202,20 +195,6 @@ Tape white wire to top with aluminum tape
 
 ---
 
-### Part 4: Soldering
-
-<!-- Custom options from TBD -->
-#### 4.1: Custom Soldering 1
-
-#### 4.2: Custom Soldering 2
-
----
-
-<!-- Part 5 from TBD -->
-### Part 5: Testing and reassembling the adapted toy
-
----
-
 ## Appendix
 
 ### Troubleshooting
@@ -229,7 +208,7 @@ Link out.
 
 ### Acknowledgements
 - https://miahoffmannd.github.io/switchkit/Switches
-Resources used to develop this manual. People who helped: contributors, editors, etc.
+<!-- Resources used to develop this manual. People who helped: contributors, editors, etc. -->
 
 <!-- Should also live in the style guide. Will be under development! -->
 ### About HuskyADAPT and Instructional Systems
