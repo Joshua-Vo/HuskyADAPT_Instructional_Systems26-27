@@ -3,7 +3,7 @@
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
-Version no. 1 and last updated on 11/17/2026
+Version no. 1 and last updated on 11/18/2026
 
 <!-- Many teams included alt text eyyy -->
 <img src="kalm-pics/toy-and-box.jpg" alt="Picture of toy" />
@@ -19,24 +19,24 @@ Version no. 1 and last updated on 11/17/2026
 
 <!-- KALM good standard info -->
 ## Toy details
-**Link**: https://a.co/d/02appaI6
+**Link**: https://a.co/d/0idWK1Hf 
 
-**Name**: Playbees Light-Up Transparent Car
+**Name**: Light Up Fire Truck Toy for Kids 3+,Baby Sensory Car with Music,Boy Gifts 
 
-**Brand**: Playbees
+**Brand**: TNOIE
 
-**UPC**: 850040992878
+**UPC**: X0048H49XP
 
 ## Toy features
 | Light | Sound | Motion |
 |-------| -------- | --------|
-| light_icon | sound_icon | motion_icon |
+| yes| yes| yes |
 
 <!--Pasted from product description itself Sensory outputs involved in operation of the toy.-->
  
 Transparent Body with Gears
 
-Lights & Music: LED effects activate with fun sounds for interactive play
+Features: Lights & Music
 
 Bump-and-Go Movement: Changes direction automatically when hitting objects
 
@@ -44,12 +44,12 @@ Bump-and-Go Movement: Changes direction automatically when hitting objects
 
 Material: Plastic
 
-Size: 8 x 5 x 2 inches
+Size: 8.07 x 3.85 x 3.15 inches
 
-Power: 3 AA batteries **not included**
+Power: 3 AA batteries **(included)**
 
 ## Adaptation difficulty
-**Difficulty 1/3: Beginner-friendly**
+**Difficulty 2/3: Beginner-friendly**
 
 This project requires beginner-level soldering and hand-tool usage
 
