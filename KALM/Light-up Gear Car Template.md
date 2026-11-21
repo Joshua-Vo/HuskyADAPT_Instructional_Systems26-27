@@ -6,7 +6,7 @@
 Version no. 1 and last updated on 11/17/2026
 
 <!-- Many teams included alt text eyyy -->
-<img src="" alt="Picture of toy" />
+<img src="kalm-pics/toy-and-box.jpg" alt="Picture of toy" />
 
 <!-- YMCV key intro info -->
 # Introduction
@@ -155,7 +155,7 @@ Check to make sure all features work: Does the car light up? Drive? Play music?
 ---
 
 ### Step 3: Preparing for disassembly / Lay out tools
-<img src="" alt="Process photo" />
+<img src="kalm-pics/toy-with-lights-on.jpg" alt="Process photo" />
 
 *Image of toy and tools laid out* 
 Remove batteries and prepare dissasembly tools.
@@ -169,19 +169,19 @@ Unscrew the 8 screws pictured.
 Unscrew an addtional 4 screws.
 > 💡 **Tip**: Put the screws somewhere safe so they don't get lost.
 
-<img src="" alt="Process photo" />
+<img src="kalm-pics/toy-unscrewed.jpg" alt="Process photo" />
 
 *Image of unscrewing tools*  
 
 ### Step 2: Find and get access to the circuit board
 
-<img src="" alt="Process photo" />
+<img src="kalm-pics/circuitboard.jpg" alt="Process photo" />
 
 *Caption here*  
 
  ### Step 3: Test wire combinations to make sure features work
 
-<img src="" alt="Process photo" />
+<img src="kalm-pics/testing-pins.jpg" alt="Process photo" />
 
 *Caption here*  
 
@@ -210,15 +210,29 @@ Give the wire a tug test to see if it is securely attached
 > 💡 **Tip**: We recommend drilling the hole at near the trunk, but this can be adjusted for personal preference.
 ---
 
+<img src="kalm-pics/drilling-hole.jpg" alt="Process photo" />
 
 <!-- StCustom options from TBD -->
 ### 4.1: Custom Soldering 1
 
+<img src="" alt="Process photo" />
+
 ### 4.2: Custom Soldering 2
+
+<img src="" alt="Process photo" />
+
 <!-- Part 5 from TBD -->
 
 ## Part 5: Testing and reassembling the adapted toy
+
+### Reassembling
+<img src="kalm-pics/correct-gear-setup.jpg" alt="Process photo" />
+
+### Testing
 To see if you correctly adapted the toy, screw back on the cover along and test with the button to see if the car lights up
+
+<img src="kalm-pics/adapted-with-lights-on.jpg" alt="Process photo" />
+
 If it is not working, go back to Part 2 Step 2 and troubleshoot from there. 
 
 ---
