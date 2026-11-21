@@ -1,21 +1,22 @@
 # How to Build a Paddle Switch
 
-Version no. and last updated
+Version 0.1.0 and 21 November 2026
 
-![alt text](image path)
+![Fully assembled paddle switch made of coroplast, conductive tape, double sided foam tap, and a universal jack](assets/finishedSwitch.png)
+
 
 ## Introduction
-* The Paddle Switch is a device that is operated by pressing down on one end of the paddle until the two pieces of plastic touch. This device can be used in place of the often expensive commercially avaible adaptive switches to activate switch adapted toys. It is good for large movements and users who benefit from a large activation surface.
-* This guide explains how to build a Paddle Switch using inexpensive materials and basic tools.
+- The Paddle Switch is a device that is operated by pressing down on one end of the paddle until the two pieces of plastic touch. This device can be used in place of the often expensive commercially avaible adaptive switches to activate switch adapted toys. It is good for large movements and users who benefit from a large activation surface.
+- This guide explains how to build a Paddle Switch using inexpensive materials and basic tools.
 
 > For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
 
 ### Device details
-**Link**: [https://miahoffmannd.github.io/switchkit/Switches](https://miahoffmannd.github.io/switchkit/Switches)
-**Name**: Paddle Switch
-**Original Creator**: [Mia Hoffman](https://miahoffmannd.github.io/)
+- **Name**: Paddle Switch
+- **Original Creator**: [Mia Hoffman](https://miahoffmannd.github.io/)
+- **Link**: [https://miahoffmannd.github.io/switchkit/Switches](https://miahoffmannd.github.io/switchkit/Switches)
 
-### Toy features
+### Device features
 | Durable | Fast to Build | Works with any switch toy adaptation or input device |
 |-------|-------|--------|
 | strong_icon   | lightning_icon   | check_icon    |
@@ -35,10 +36,10 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
 - [How to Build a Paddle Switch](#how-to-build-a-paddle-switch)
   - [Introduction](#introduction)
     - [Device details](#device-details)
-    - [Toy features](#toy-features)
+    - [Device features](#device-features)
     - [Adaption difficulty](#adaption-difficulty)
   - [Table of contents](#table-of-contents)
-  - [General procedure](#general-procedure)
+  <!-- - [General procedure](#general-procedure) -->
   - [Safety precautions](#safety-precautions)
   - [Tools and setup](#tools-and-setup)
   - [Full procedure](#full-procedure)
@@ -60,39 +61,18 @@ Ex. This project requires beginner-level soldering and hand-tool usage; Advanced
     - [Acknowledgements](#acknowledgements)
     - [About HuskyADAPT and Instructional Systems](#about-huskyadapt-and-instructional-systems)
 
-<!-- Present in every manual for convenience and safety -->
-<!-- Should go in the style guide (up for editing) -->
-## General procedure
-<!-- Source: https://uwnetid.sharepoint.com/:p:/s/huskyadapt/cQr_xZxmDFQlSrafDVBPPkZsEgUCJVXRQgi2niDiJS1xfOS7MA -->
-The general procedure for toy adaptation is as follows:  
-
-1. Unpackage the toy.
-2. Assess the toy's functions. Determine what components you want to make switch-accessible.  
-3. Take the toy apart.  
-4. Identify the main circuit points responsible for the function(s) selected.
-5. Drill a hole into the toy case and feed the switch wires through.
-6. Solder an audio jack in parallel to the main circuit.  
-7. Test the toy.  
-8. Once it works, put the toy back together.
-
-<!-- Present in every manual for convenience and safety -->
-<!-- Should go in the style guide (up for editing) -->
 ## Safety precautions
-This adaptation requires the use of a soldering iron and drill.  
+<!-- https://facilities.uw.edu/partner-resources/files/media/box-cutter-safety.pdf -->
+This build requires the use of a box cutter.
 
-When drilling or soldering:
-- Be alert and aware of your surroundings.
-- Wear safety goggles.
-- Tie back long hair and secure loose-fitting clothing.
-- Take all batteries out of the toy.
-
-When soldering:
-- Ensure that you are in a well-ventilated room. Turn on a fan if possible.
-- Ensure soldering iron cords will not be tripped over.
-- Keep your hands away from the iron tip, soldering connection, or anything that has recently touched the tip.
-
-When drilling:
-- Drill away from yourself and watch your fingers.  
+To prevent injuries while using one of the many types of box cutters, consider the following:
+- **Keep the blade sharp** – Sharp blades will cut. Dull blades will tug and pull, which is more likely to cause your hand to slip and cut your fingers. Replace when dull, and never use a broken blade!
+- **Shorten the blade** – Most box cutters allow you to choose the length of the blade. Keep the blade as short as possible.
+- **Keep it covered** – Retract the blade as soon as possible. When you put your box cutter away, make sure that it's protected with a cover.
+- **Angle it away from your body** – Never cut directly towards you. If you cut at an angle, your hand will move away from your body if it slips.
+- **Cut deliberately** – Apply a consistent, firm (but not excessive) pressure while performing the cut. Use your arm to move the blade in a deliberate motion so that slipping becomes unlikely. Concentrate on the material to be cut and watch the blade at all times.
+- **Keep your thumb away** – It's tempting to put your thumb right by the blade when you cut since you get better balance, but don't put your thumb anywhere near the blade. 
+- **Put your other hand away** – You don't need to put your hand right by the blade when you cut. Put your hand far enough away and back to avoid cutting it.
 
 ## Tools and setup
 Link out.
@@ -101,29 +81,29 @@ Link out.
 ## Full procedure
 ### Part 1: Prepare the pieces
 #### Step 1: Cutting the pieces
-![alt text](image path)
-*Caption here*
+![Four pieces of cut coroplast needed for assembly of the paddle switch.](assets/part1Step1.png)
+*The four pieces of cut coroplast needed for assembly of the paddle switch*
 
 Cut four pieces of corrugated plastic (coroplast):
 - **Base (A):** 5.75 x 4 inches.
-  - Flutes (the internal channels in the plastic) should be parallel with the short edge.
+  - > ✏️ **Note**: Flutes (the internal channels in the plastic) should be parallel with the short edge.
 - **Paddle (B):** 5 x 4 inches.
-  - Flutes should run along with the short edge.
+  - > ✏️ **Note**: Flutes should run along with the short edge.
 - **Shim (C):** 4 x 1 inches.
-  - Flute direction does not matter.
+  - > ✏️ **Note**: Flute direction does not matter.
 - **Shim (D):** 4 x 1 inches.
-  - Flute direction does not matter.
-<!-- > ✏️ **Note**: Note.
+  - > ✏️ **Note**: Flute direction does not matter.
 
+<!--
 > ⚠️ **Caution**: Caution. 
-
-> 💡 **Tip**: Tip.   -->
+> 💡 **Tip**: Tip.   
+-->
 
 ---
 
 #### Step 2: Score the piece
-![alt text](image path)
-*Caption here*
+![The paddle piece being scored using a razor blade.](assets/part1step2.png)
+*The paddle piece being scored using a razor blade*
 
 Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 1 inch away from the edge.
 
