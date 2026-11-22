@@ -111,18 +111,31 @@ Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 
 
 ### Part 2: Taping the pieces
 #### Step 1: Prepare the Base (A)
-![alt text](image path)
-*Caption here*
+![The base piece with foam tape attached to the center with its edge touching the short side.](assets/part2_foamtape.jpg)
+*Foam tape on the base piece*
 
 Cut a 1 inch piece of foam tape. Attach it in the middle of the 4 inch side of the Base (A) so that the edge of the foam tape is at the edge of the Base.
+
+![The base piece with foam tape and conductive tape attached.](assets/part2_tapejpg.jpg)
+*Foam tape and conductive tape installed on the base piece*
 
 Cut a 5 inch piece of aluminum conductive tape. Attach it to the center of the Base (A) directly below the foam tape. 
 
 #### Step 2: Prepare the Paddle (B)
-![alt text](image path)
-*Caption here*
+![Paddle piece is slightly bent with the tape installed.](assets/part2_paddletape.jpg)
+*Paddle piece is slightly bent with the tape installed.*
 
-Cut a 6 inch piece of aluminum conductive tape. With Paddle (B) slightly bent, attach the tape to the center. When you straighten the Paddle, make sure there is a small raised edge where the scored line is. Wrap the last inch of the tape around the non-scored edge.
+Cut a 6 inch piece of aluminum conductive tape. With Paddle (B) slightly bent, attach the tape to the center. 
+
+![Paddle piece with close up of tape bump.](assets/part2_tapebump.jpg)
+*Tape bump on the paddle piece.*
+
+When you straighten the Paddle, make sure there is a small raised edge where the scored line is. 
+
+![Backside of the paddle piece with tape wrapped around the edge.](assets/part2_paddleback.jpg)
+*Backside of the paddle piece with tape wrapped around the edge.*
+
+Wrap the last inch of the tape around the non-scored edge.
 
 <!-- > ✏️ **Note**: Note.
 
