@@ -146,16 +146,18 @@ Link out.
 ---
 
 ### Step 2: Test if the toy car works
-<img src="" alt="Process photo" />
 
-*Image of toy with lights on*  
 
 Insert batteries and turn the toy on.
 Check to make sure all features work: Does the car light up? Drive? Play music?
+
+<img src="kalm-pics/toy-with-lights-on.jpg" alt="Process photo" />
+
+*Image of toy with lights on*
+
 ---
 
 ### Step 3: Preparing for disassembly / Lay out tools
-<img src="kalm-pics/toy-with-lights-on.jpg" alt="Process photo" />
 
 *Image of toy and tools laid out* 
 Remove batteries and prepare dissasembly tools.
@@ -191,6 +193,13 @@ Unscrew an addtional 4 screws.
 ## Part 3: Soldering
 > ⚠️ **Caution**: Remove the batteries before soldering!!!
 
+There are 2 soldering options given the design of the toy:
+
+**Option A**: Lights ONLY
+**Option B**: Driving and Sound
+
+Functions other than the one selected for soldering will only be available through the built in switch on the toy, and will be inaccessible from the adapted switch.
+
  ### Step 1: Use soldering iron to melt a droplet of metal onto the right circuit and press the wire in for around 5 seconds
 Give the wire a tug test to see if it is securely attached
 <img src="" alt="Process photo" />
@@ -201,27 +210,12 @@ Give the wire a tug test to see if it is securely attached
 <img src="" alt="Process photo" />
 
 *Caption here*  
-
-
-
 ---
 ## Part 4: Making space for the new switch
 ### Step 1: Drill a hole for the headphone jack
 > 💡 **Tip**: We recommend drilling the hole at near the trunk, but this can be adjusted for personal preference.
 ---
-
 <img src="kalm-pics/drilling-hole.jpg" alt="Process photo" />
-
-<!-- StCustom options from TBD -->
-### 4.1: Custom Soldering 1
-
-<img src="" alt="Process photo" />
-
-### 4.2: Custom Soldering 2
-
-<img src="" alt="Process photo" />
-
-<!-- Part 5 from TBD -->
 
 ## Part 5: Testing and reassembling the adapted toy
 
