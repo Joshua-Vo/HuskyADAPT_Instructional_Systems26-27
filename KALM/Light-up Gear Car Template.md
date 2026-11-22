@@ -188,6 +188,14 @@ Unscrew an addtional 4 screws.
 *Caption here*  
 
 ---
+
+## Part 3: Making Space for the New Switch
+
+### Step 1: Drill a hole for the headphone jack
+<img src="kalm-pics/hole-in-toy.jpg" alt="Process photo" />
+<img src="kalm-pics/drilling-hole.jpg" alt="Process photo" />
+
+
 ---
 
 ## Part 3: Soldering
