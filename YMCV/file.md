@@ -27,7 +27,7 @@ Version 1. Last updated on 22 November 2026.
 
 ## Toy features
 | Light | Sound | Motion |
-|-------|-------|--------|
+|:---:|:---:|:---:|
 |💡|🔊|🔃|
 |❌|✅|✅|
 
