@@ -3,38 +3,37 @@
 
 <!-- AWESOME version no. and date -->
 <!-- How to number should go in style guide -->
-Version no. and last updated  
+Version 1. Last updated on 22 November 2026.
 
 <!-- Many teams included alt text eyyy -->
-<img src="" alt="Picture of toy" />
+<img src="assets/images/dice_roller.jpg" alt="Picture of dice roller toy" />
 
 <!-- YMCV key intro info -->
 # Introduction
-* The dice roller is a toy that that rolls the dice through the press of a button.
-* This adaptation guide explains how to adapt (insert names and descriptions of features being adapted)
+* The dice roller is a toy with a spinner inside that rolls dice and is activated with a press of one of four buttons. It can be used for playing all sorts of games including table top roleplaying games like Dungeons and Dragons, board games like Monopoly, and strategy games like Mahjong, among others. 
+* This adaptation guide explains how to adapt the functionality of any of the four buttons used to make the dice roll, so that they can be activated with the press of a singular, large button. 
 
 <!-- KALM good standard inclusion -->
 > For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
 
 <!-- KALM good standard info -->
 ## Toy details
-**Link**: Link to purchase  
-**Name**: Official toy name  
-**Brand**: Brand  
-**UPC**: UPC  
+**Link**: [Amazon link to dice roller](https://a.co/d/0alVkROF)  
+**Name**: Automatic Dice Roller Cup with Dices for Adults Party Table Games EK1981  
+**Brand**: Gikfun  
+**ASIN**: B0BNT3Z7QN
 
 ## Toy features
 | Light | Sound | Motion |
 |-------|-------|--------|
-| light_icon   | sound_icon   | motion_icon    |
+|💡|🔊|🔃|
+|❌|✅|✅|
 
-Sensory outputs involved in operation of the toy.
-
+Pressing any of the four buttons on the dice roller makes the spinner inside to spin, causing the dice to roll and make a rattling sound.
 ## Adaption difficulty
 **Difficulty 1/3: Beginner-friendly**
 
-Complexity level of adaptation and description of prior experience required.
-Ex. This project requires beginner-level soldering and hand-tool usage; Advanced experience in soldering required for this project.  
+This project requires beginner-level soldering and hand-tool usage. 
 
 <!-- Linky like AWESOME -->
 <!-- Phrased for SEO/AEO/GEO -->
