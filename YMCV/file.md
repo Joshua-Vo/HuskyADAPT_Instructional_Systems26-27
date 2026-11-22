@@ -103,7 +103,32 @@ When drilling:
 - Drill away from yourself and watch your fingers.  
 
 # Tools and setup
-Link out.
+## Tools
+<img src="assets/images/tools.png" alt="Image of tools (drill and screwdriver)">
+1. Electric drill with a drill bit at least 3/8" 
+2. Small Phillips head screwdriver 
+
+### Soldering Tools
+<img src="assets/images/soldering.png" alt="Image of soldering tools (wire holder, solder, soldering iron and stand, sponge, fan, safety glasses)"> 
+3. Alligator clip wire holder (optional)
+4. Lead-free solder
+5. Soldering iron and stand
+6. High-temperature sponge or brass wool
+7. Fan
+8. Safety glasses
+
+## Extra Materials
+<img src="assets/images/materials.png" alt="Image of extra materials for adaptation (button switch and headphone jack)">
+9. Switch
+10. 3.5mm headphone jack
+
+## Setup
+<figure>
+<img src="assets/images/soldering_equipment_4.HEIC" alt="Image of soldering setup">
+<figcaption>Example setup</figcaption>
+</figure>
+
+Set up a well-ventilated workspace with a clear desk or workbench. Work near an open window, outdoors, or under a vent hood or fume extractor. Plug the soldering iron in, set it on the stand, and ensure it is easy to reach.
 
 <!-- Kept linear for screen reader convenience and less whitespace -->
 # Full procedure
