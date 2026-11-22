@@ -132,6 +132,7 @@ When drilling:
     <figcaption>Example setup</figcaption>
 </figure>
 
+
 Set up a well-ventilated workspace with a clear desk or workbench. Work near an open window, outdoors, or under a vent hood or fume extractor. Plug the soldering iron in, set it on the stand, and ensure it is easy to reach.
 
 <!-- Kept linear for screen reader convenience and less whitespace -->
@@ -140,9 +141,33 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 
 <!-- Subsection as heading allows for clearer distinction of which images belong to which step -->
 ### Step 1: Remove the toy from the package
-<img src="" alt="Process photo" />
+<img src="assets/images/box.jpg" alt="Image of box" />
 
-*Caption here*  
+*1.1: The Dice Roller packaging*  
+
+> ✏️ **Note**: If you intend to donate the toy after adapting, be careful not to damage the packaging, as unboxing is a big part of the gift opening experience.
+
+<!-- Separators from KALM; good visual separation between steps -->
+---
+
+### Step 2: Note the points marked in Fig. 1.2:
+<img src="assets/images/toy_notes.png" alt="Image of marked points of interest on top and bottom of toy" />
+
+*1.2: Top and bottom of the toy*  
+
+- **Purple circles**: 4x buttons to activate the toy
+- **White triangles**: 3x base attachment screws
+- **Yellow Rectangle**: 1x battery compartment
+
+---
+
+### Step 3: Press all buttons (indicated by purple circles in Fig. 2.2), one by one, to assess the functionality of the toy. 
+
+> ✏️ **Note**: If the buttons do not activate the toy, you may need to open the battery compartment (refer to Fig 2.2) and insert or replace batteries.
+
+---
+
+## Part 2: Understanding the circuit board
 
 <!-- Many teams used the quotation function for visual callouts (slay) -->
 <!-- YMCV provided emojis! -->
@@ -152,25 +177,6 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 > ⚠️ **Caution**: Caution. 
 
 > 💡 **Tip**: Tip.  
-
-<!-- Separators from KALM; good visual separation between steps -->
----
-
-### Step 2: Declarative step
-<img src="" alt="Process photo" />
-
-*Caption here*  
-
----
-
-### Step 3: Declarative step
-<img src="" alt="Process photo" />
-
-*Caption here*  
-
----
-
-## Part 2: Understanding the circuit board
 
 ---
 
