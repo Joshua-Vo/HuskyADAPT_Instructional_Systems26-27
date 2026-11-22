@@ -6,7 +6,7 @@ Use a test wire (a wire with both ends stripped) to touch the two pins that acti
 
 2. How do I remove a stripped screw?
 
-
+First, try to use a larger screwdriver to unscrew it. If that does not work, then use pliers to pull the screw out or drill off the head of the screw and pull it out.
 
 3. How do I know where to put the exit hole?
 
