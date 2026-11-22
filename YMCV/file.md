@@ -6,7 +6,7 @@
 Version 1. Last updated on 22 November 2026.
 
 <!-- Many teams included alt text eyyy -->
-<img src="assets/images/dice_roller.jpg" alt="Picture of dice roller toy" />
+<img src="assets/images/dice_roller.jpg" alt="Picture of dice roller toy" width=300/>
 
 <!-- YMCV key intro info -->
 # Introduction
