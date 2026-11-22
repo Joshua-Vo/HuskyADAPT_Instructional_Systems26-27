@@ -141,7 +141,7 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 
 <!-- Subsection as heading allows for clearer distinction of which images belong to which step -->
 ### Step 1: Remove the toy from the package
-<img src="assets/images/box.jpg" alt="Image of box" />
+<img src="assets/images/box.jpg" alt="Image of box" width=500/>
 
 *1.1: The Dice Roller packaging*  
 
@@ -151,7 +151,7 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 ---
 
 ### Step 2: Note the points marked in Fig. 1.2:
-<img src="assets/images/toy_notes.png" alt="Image of marked points of interest on top and bottom of toy" />
+<img src="assets/images/toy_notes.png" alt="Image of marked points of interest on top and bottom of toy" width=500/>
 
 *1.2: Top and bottom of the toy*  
 
