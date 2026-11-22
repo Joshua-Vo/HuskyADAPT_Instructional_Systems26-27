@@ -114,17 +114,16 @@ Score (cut part way through) the Paddle (A) piece, along the short 4 inch side, 
 ![alt text](image path)
 *Caption here*
 
-Add two pieces of 5 inch aluminum conductive tape to the Base (A). Center and overlap the pieces so that there is a X inch border between the edge of the piece and the tape.
+Cut a 1 inch piece of foam tape. Attach it in the middle of the 4 inch side of the Base (A) so that the edge of the foam tape is at the edge of the Base.
 
-Place a 1 inch piece of foam tape in the middle of the 4 inch side between the tape and the edge.
+Cut a 5 inch piece of aluminum conductive tape. Attach it to the center of the Base (A) directly below the foam tape. 
 
 #### Step 2: Prepare the Paddle (B)
 ![alt text](image path)
 *Caption here*
 
-Add a 6 inch piece of aluminum conductive tape to the Paddle (B). Center the piece and leave X inch from the scored side. 
+Cut a 6 inch piece of aluminum conductive tape. With Paddle (B) slightly bent, attach the tape to the center. When you straighten the Paddle, make sure there is a small raised edge where the scored line is. Wrap the last inch of the tape around the non-scored edge.
 
-Wrap the last inch around the non-scored edge.
 <!-- > ✏️ **Note**: Note.
 
 > ⚠️ **Caution**: Caution. 
