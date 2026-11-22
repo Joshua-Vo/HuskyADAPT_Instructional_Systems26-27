@@ -1,26 +1,13 @@
 ## FAQ
-### Troubleshooting
-1. Question
 
-Answer
+1. How do I know where to solder?
 
-2. Question
+Use a test wire (a wire with both ends stripped) to touch the two pins that activate the target function, as specified by the manual. When you do this, the target function should be activated. If you are looking to adapt a different feature, use the test wire to touch various pins until your target function is activated. Those are the pins you will solder.
 
-Answer
+2. How do I remove a stripped screw?
 
-3. Question
 
-Answer
 
-### Soldering
-1. Question
+3. How do I know where to put the exit hole?
 
-Answer
-
-2. Question
-
-Answer
-
-3. Question
-
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+Try to maximize the length of the cable outside the toy by drilling the exit hole close to the circuit board.
