@@ -373,4 +373,8 @@ Resources used to develop this manual. People who helped: contributors, editors,
 
 <!-- Should also live in the style guide. Will be under development! -->
 ## About HuskyADAPT and Instructional Systems
-Description.
+HuskyAdapt is a student organization at the University of Washington, Seattle campus that is dedicated to supporting accessible design and inclusive play technology.  
+
+Instructional Systems, a branch within HuskyAdapt, aims to employ human-centered design practices to connect communities with the resources, knowledge, and networks to create accessible play. This goal is achieved specifically through the study of existing programs and the needs of aspiring community facilitators, the creation of clear, user-centered manuals, and the design of programs and content strategy to support communities.
+
+For more information about Husky Adapt or Instructional Systems, visit the [Husky Adapt homepage] (https://www.huskyadapt.me.uw.edu) or contact us at [adaptuw@uw.edu] (adaptuw@uw.edu). 
