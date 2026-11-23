@@ -1,4 +1,4 @@
-## Preparation
+## Tools and Setup
 
 
 | **Instructions** | **Illustrations** |
