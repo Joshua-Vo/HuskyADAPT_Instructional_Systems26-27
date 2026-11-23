@@ -223,7 +223,7 @@ Document the electrical modification that connects the external switch to the to
 
 #### 4.2: Connecting the audio jack cable
 
-![Completed audio jack cable connection](bubbleimages/bubblesaftersoldering.JPD)
+![Completed audio jack cable connection](bubbleimages/bubblesaftersoldering.JPG)
 
 *Figure 7. Completed audio jack cable connection.*
 
