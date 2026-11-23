@@ -297,9 +297,9 @@ The toy uses four AA batteries.
 
 ### Resources
 
+- [Video Demonstration: Switch Adapting the Funrise Gazillion Bubbles Hurricane](https://youtu.be/ybQouWiGhys?si=3qHRakmNAcfnDGR4)
 - [HuskyADAPT](https://depts.washington.edu/adaptuw/)
 - [Funrise, Inc.](https://www.funrise.com/)
-- [Gazillion](https://www.gazillion.com/)
 - [Enabling Devices](https://enablingdevices.com/)
 
 ### Acknowledgements
