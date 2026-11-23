@@ -118,7 +118,7 @@ When drilling:
 
 #### Step 1: Remove the toy from the package
 
-![Funrise Gazillion Bubbles Hurricane removed from its original packaging](bubbleimages/bubblesunpacked.jpg)
+![Funrise Gazillion Bubbles Hurricane removed from its original packaging](bubbleimages/bubblesunpacked.JPG)
 
 *Figure 1. The Funrise Gazillion Bubbles Hurricane before adaptation.*
 
@@ -134,7 +134,7 @@ When drilling:
 
 #### Step 2: Assess the toy's functions
 
-![Funrise Gazillion Bubbles Hurricane showing its battery compartment](bubbleimages/bubblesbatterycompartment.jpg)
+![Funrise Gazillion Bubbles Hurricane showing its battery compartment](bubbleimages/bubblesbatterycompartment.JPG)
 
 *Figure 2. Battery compartment of the bubble machine.*
 
@@ -154,7 +154,7 @@ When drilling:
 
 #### Step 3: Document the original switch
 
-![Funrise Gazillion Bubbles Hurricane showing its original switch](bubbleimages/bubblesback.jpg)
+![Funrise Gazillion Bubbles Hurricane showing its original switch](bubbleimages/bubblesback.JPG)
 
 *Figure 3. Original switch of the bubble machine.*
 
@@ -168,7 +168,7 @@ When drilling:
 
 ### Part 2: Understanding the circuit board
 
-![Internal wiring of the Funrise Gazillion Bubbles Hurricane](bubbleimages/bubbleswiring.jpg)
+![Internal wiring of the Funrise Gazillion Bubbles Hurricane](bubbleimages/bubbleswiring.JPG)
 
 *Figure 4. Internal wiring and original activation circuit.*
 
@@ -188,7 +188,7 @@ Document the following:
 
 ### Part 3: Making space for the new switch
 
-![Proposed audio jack location on the toy enclosure](bubbleimages/bubblesdrillinghole.jpg)
+![Proposed audio jack location on the toy enclosure](bubbleimages/bubblesdrillinghole.JPG)
 
 *Figure 5. Proposed location for the audio jack connection.*
 
@@ -223,7 +223,7 @@ Document the electrical modification that connects the external switch to the to
 
 #### 4.2: Connecting the audio jack cable
 
-![Completed audio jack cable connection](bubbleimages/bubblesaftersoldering.jpg)
+![Completed audio jack cable connection](bubbleimages/bubblesaftersoldering.JPD)
 
 *Figure 7. Completed audio jack cable connection.*
 
@@ -236,7 +236,7 @@ Document the electrical modification that connects the external switch to the to
 
 ### Part 5: Testing and reassembling the adapted toy
 
-![Completed switch-adapted Funrise Gazillion Bubbles Hurricane](bubbleimages/bubblescompleted.jpg)
+![Completed switch-adapted Funrise Gazillion Bubbles Hurricane](bubbleimages/bubblescompleted.JPG)
 
 *Figure 8. Completed Funrise Gazillion Bubbles Hurricane adaptation.*
 
