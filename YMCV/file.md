@@ -172,6 +172,12 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 <!-- Many teams used the quotation function for visual callouts (slay) -->
 <!-- YMCV provided emojis! -->
 
+### Step 1: Use the Phillips screwdriver to remove the 3 base attachment screws (refer to Figure 1.2 for their positions)
+
+> 💡 **Tip**: Store the removed screws in a safe place, like a small cup, so as not to lose them while adapting the toy
+
+### Step 2: Carefully remove the base of the toy
+
 > ✏️ **Note**: Note.
 
 > ⚠️ **Caution**: Caution. 
