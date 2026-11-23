@@ -202,6 +202,10 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 
 ### Step 2: Plug the switch into the headphone jack
 
+<img src=“assets/images/JPEG conversions/headphone_jack_&_button_9.jpeg” alt=“Image of headphone jack and adapted switch being connected” width=300”>
+
+*5.1: The headphone jack being connected to the adapted switch
+
 ***
 
 ### Step 3: Test the functionality of the toy by pressing on the switch once. If the toy fails to activate, refer to [troubleshooting for failed toy activation](#what-do–I-do-if-the-toy-does-not-respond-after-adapting-it-and-pressing-the-adapted-switch) or revisit [Part 4: Soldering](#part-4-soldering). Check that there are no issues with the batteries and that the headphone jack cable is soldered securely to the original activation switch of the toy
