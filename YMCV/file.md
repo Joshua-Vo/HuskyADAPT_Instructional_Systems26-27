@@ -201,7 +201,7 @@ Set up a well-ventilated workspace with a clear desk or workbench. Work near an 
 ***
 
 ### Step 2: Plug the switch into the headphone jack
-<img src=“assets/images/JPEG conversions/headphone_jack_&_button_9.jpeg” alt=“Image of headphone jack and adapted switch being connected” width=300”/>
+<img src="assets/images/JPEG%20conversions/headphone_jack_%26_button_9.jpeg" alt="Image of headphone jack and adapted switch being connected” width="300”/>
 
 *5.1: The headphone jack being connected to the adapted switch
 
