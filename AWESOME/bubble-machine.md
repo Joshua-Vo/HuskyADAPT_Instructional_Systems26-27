@@ -2,7 +2,7 @@
 
 Version 2.0.0 | Last updated: 22 November 2026
 
-![Funrise Gazillion Bubbles Hurricane](AWESOME/bubbleimages/bubbleboxfront.JPG)
+![Funrise Gazillion Bubbles Hurricane](bubbleimages/bubbleboxfront.JPG)
 
 ## Introduction
 
